@@ -1,0 +1,6 @@
+package pipeline
+
+class MyClass {
+
+
+}
